@@ -1,6 +1,6 @@
 # SVM_DigitRecognition
 MNIST Digit Recognition using SVM Algorithm.
-
+The MNIST database was constructed from NIST's Database which contain binary images of handwritten digits from 0-9. The train dataset contains 60,000 whereas the test dataset contains 10,000 samples.
 ## STEPS:
 1. Importing necessary libraries.
 2. Import MNIST dataset using pandas library.
